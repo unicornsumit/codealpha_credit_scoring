@@ -1,0 +1,16 @@
+feature,importance
+num__credit_per_month,0.07770440209440814
+num__credit_amount,0.0672073033670967
+num__debt_burden_score,0.06591755695985609
+cat__checking_account_no account,0.06146309731537899
+num__duration_months,0.05924736172736543
+num__has_both_accounts,0.05670681433495578
+num__age,0.05182601172865229
+cat__checking_account_< 0 DM,0.03315081786440089
+num__present_residence_since,0.022140219882094837
+cat__credit_history_critical/other credits existing,0.021551843027163137
+num__installment_rate_pct,0.021404717443145652
+cat__savings_account_< 100 DM,0.018551218553619755
+cat__other_installment_plans_none,0.0164532195376209
+cat__purpose_car (used),0.014924213942158517
+cat__purpose_car (new),0.013913686626439454
